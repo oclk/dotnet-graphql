@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "014c02c7-4b45-4a5f-abbf-79949729a148": {
+      "ProjectGuid": "014c02c7-4b45-4a5f-abbf-79949729a148",
+      "DisplayName": "Dotnet.GraphQL",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
